@@ -3,6 +3,7 @@ seaborn
 numpy
 google-colab
 matplotlib
+scikit-learn
 nltk
 imbalanced-learn
 joblib
