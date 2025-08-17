@@ -44,7 +44,7 @@ section = st.sidebar.radio("Go to", [
 # ===============================
 if section == "🏠 Project Overview":
     st.title("📰 Fake Message Detector")
-    st.image("Images/fakeMessage.jpg", caption="Fake News Detection Overview", use_container_width=True)
+    st.image("Images/fakeMessage.jpg", caption="Fake News Detection Overview", use_container_width=False)
     st.write("""
         🚀 This project is designed to detect whether a given message is **True ✅ or Fake ❌** 
         using advanced **Machine Learning** techniques.
