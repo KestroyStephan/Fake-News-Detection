@@ -4,3 +4,4 @@ numpy
 google-colab
 matplotlib
 nltk
+imbalanced-learn
